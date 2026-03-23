@@ -17,16 +17,6 @@ export default function HomePage() {
         </p>
       </div>
 
-      <div>
-        <div className="text-xl font-medium text-red-500">
-          Regarding the project discussion, we have identified the following risks:
-        </div>
-        <ul className="list-disc list-inside mt-4">
-          <li>Could you please invite me to your slack channel for smooth communication?</li>
-          <li>my work address is superdev277341@gmail.com</li>
-          <li>I want to share my address via upwork, but it is dangerous for our account to share the contact info due to Upwork Policy.</li>
-        </ul>
-      </div>
       <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
         <Link
           href="/diagnostic"
